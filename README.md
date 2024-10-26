@@ -1,15 +1,15 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [fitness site] 🎯
+# fitness site🎯
 
 
 ## Basic Details
-### Team Name: [Ranga]
+### Team Name: Ranga
 
 
 ### Team Members
-- Team Lead: [abhishek] - [TKMCE]
-- Member 2: [athul] - [TKMCE]
+- Team Lead: abhishek - TKMCE KOLLAM
+- Member 2: athul - TKMCE KOLLAM
 
 
 ### Project Description
@@ -62,8 +62,8 @@ For Software: we have developed a fitness site using html and styling with css, 
 
 
 ## Team Contributions
-- [abhishek]: [html]
-- [athul]: [css]
+- abhishek: html
+- athul: css
 
 
 ---
