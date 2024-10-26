@@ -10,40 +10,31 @@
 ### Team Members
 - Team Lead: [abhishek] - [TKMCE]
 - Member 2: [athul] - [TKMCE]
-- Member 3: [Name] - [College]
+
 
 ### Project Description
 [2-3 it provide fitness level and also suggest exercise according to various level]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[unhealthy young generation]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[our product calcutes the fitness level to make an awareness]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
 - [html,css]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
-### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
+
+
+
+
 
 ### Project Documentation
-For Software:
+For Software: we have developed a fitness site using html and styling with css, our site has an interface where you can store your details and two hyperlinks, first one leading to your current fitness level and the second one suggest workout routine based on their level.
 
 # Screenshots (Add at least 3)
 ![![Screenshot (6)](https://github.com/user-attachments/assets/64db087c-529e-476f-b86b-e230ffca14b3)
@@ -58,41 +49,22 @@ For Software:
 ](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [https://drive.google.com/file/d/1v5ALgeXflzOLkUOKcFCy1OD1aL5ZCjKO/view?usp=drive_link]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [abhishek]: [html]
+- [athul]: [css]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
